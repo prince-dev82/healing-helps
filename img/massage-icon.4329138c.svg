@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 50 50"
+   enable-background="new 0 0 50 50"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="massage-icon.svg"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.32"
+     inkscape:cx="7.8725961"
+     inkscape:cy="29.987981"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="line-height:normal;-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;fill:#181443;fill-opacity:1"
+     d="m 37.59375,10.96875 c -0.672179,0.01062 -1.353504,0.12918 -2,0.40625 v 0.03125 L 31.6875,13.1875 c -1.144939,0.508862 -1.88589,1.398673 -2.4375,2.28125 V 15.5 L 20,30.90625 C 18.233358,31.948156 17,33.792485 17,36 v 3.5625 L 13.5625,43 H 3.59375 C 1.8322115,43 0.14421328,44.250227 0,46.125 -0.13492739,48.148911 1.4222222,50 3.5,50 h 12.6875 c 0.766667,0 1.548223,-0.329473 2.125,-0.90625 L 24.4375,43 H 38 v 6 1 h 1 11 V 48 H 40 V 32 h 9 1 V 31 30 29.78125 L 49.90625,29.5625 42.40625,14 c -0.0036,-0.0083 0.0036,-0.02297 0,-0.03125 H 42.375 c -0.852308,-1.939668 -2.779192,-3.031622 -4.78125,-3 z m 0.0625,1.96875 c 0.413449,-0.0077 0.807299,0.07735 1.1875,0.21875 0.760403,0.282809 1.411686,0.835601 1.75,1.625 v 0.03125 0.03125 L 47.875,30 H 35.84375 L 32.90625,23.59375 32.125,21.84375 31.15625,23.5 27.25,30 H 23 c -0.0554,0 -0.101222,0.02977 -0.15625,0.03125 l 8.09375,-13.5 C 30.9466,16.51676 30.95969,16.51432 30.96875,16.5 31.408409,15.805376 31.858171,15.285257 32.5,15 h 0.03125 l 3.875,-1.78125 c 0.403504,-0.17293 0.836551,-0.273506 1.25,-0.28125 z M 31.875,26.125 33.625,30 H 29.5625 Z M 23,32 h 15 v 9 H 24 23.59375 l -0.3125,0.28125 -6.375,6.40625 C 16.683027,47.910723 16.420833,48 16.1875,48 H 3.5 C 2.5777778,48 1.9349274,47.257339 2,46.28125 2.0557867,45.556023 2.7552885,45 3.59375,45 H 14 14.40625 l 0.3125,-0.28125 4,-4 L 19,40.40625 V 40 36 c 0,-2.27619 1.72381,-4 4,-4 z"
+     overflow="visible"
+     enable-background="accumulate"
+     font-family="'Bitstream Vera Sans'"
+     id="path2"
+     sodipodi:nodetypes="sccccccsccscsscccccccccccccccccccssscccccccccsccccccsccccsccccccsscsccccccss" />
+  <path
+     d="m 28.686226,0.57912222 c -3.301864,0 -6,2.69813618 -6,5.99999998 0,3.3018638 2.698136,5.9999998 6,5.9999998 3.301864,0 6,-2.698136 6,-5.9999998 0,-3.3018638 -2.698136,-5.99999998 -6,-5.99999998 z m 0,1.99999998 c 2.220984,0 4,1.7790164 4,4 0,2.2209836 -1.779016,3.9999998 -4,3.9999998 -2.220984,0 -4,-1.7790162 -4,-3.9999998 0,-2.2209836 1.779016,-4 4,-4 z"
+     style="line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;overflow:visible;enable-background:accumulate;fill:#0dcb07;fill-opacity:1"
+     id="path1425" />
+  <path
+     d="m 8.9543269,30.117788 c -3.3018638,0 -6,2.698136 -6,6 0,3.301864 2.6981362,6 6,6 3.3018641,0 6.0000001,-2.698136 6.0000001,-6 0,-3.301864 -2.698136,-6 -6.0000001,-6 z m 0,2 c 2.2209841,0 4.0000001,1.779016 4.0000001,4 0,2.220984 -1.779016,4 -4.0000001,4 -2.2209836,0 -4,-1.779016 -4,-4 0,-2.220984 1.7790164,-4 4,-4 z"
+     style="line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;overflow:visible;fill:#0dcb07;fill-opacity:1;enable-background:accumulate"
+     id="path1801" />
+</svg>
